@@ -73,5 +73,7 @@ The project includes the following steps:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/power-load-classification.git
-cd power-load-classification
+git clone https://github.com/pradumnyaastage/Loadtype_classification.git
+cd Loadtype_classification
+python -m venv loadtype  
+loadtype\Scripts\activate
